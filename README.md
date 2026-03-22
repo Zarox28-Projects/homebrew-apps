@@ -5,7 +5,7 @@ This repository provides additional formulae for Homebrew, the package manager f
 ## Installation
 To use this tap, you need to add it to your Homebrew configuration. You can do this with the following command:
 ```sh
-brew tap zarox28/apps
+brew tap zarox28-projects/apps
 ```
 
 ## Available Formulae
@@ -19,7 +19,7 @@ Here is a list of the casks available in this tap:
 - `safelock`: Simple MacOS app that locks the screen and records with the webcam if any movement is detected
 To install from this tap, use:
 ```sh
-brew install zarox28/apps/<formula>
+brew install zarox28-projects/apps/<formula>
 ```
 Replace `<formula>` with the name of the formula or cask you want to install.
 
